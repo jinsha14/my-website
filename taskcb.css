@@ -1,0 +1,15 @@
+.img-fluid{
+    margin-left: 250px;
+    
+}
+.girls{ 
+    background-repeat: no-repeat;
+    background-position: left 250px; 
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+.container {
+   padding-top: 100px;
+   margin-bottom: 50px;
+  }
+
